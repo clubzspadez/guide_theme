@@ -1,0 +1,71 @@
+<section class="hero_banner">
+  <div class="hero-inner">
+    <h1 class="search_title">
+      How can we help?
+    </h1>
+    {{search submit=false instant=true class='search search-full' placeholder="Search for answers..."}}
+  </div>
+</section>
+
+<div class="flex-container categories-section">
+  <section class="container knowledge-base">
+    <section class="categories blocks blocks-list">
+      <div class="blocks-item">
+          <a href="https://elmstreettechnology.zendesk.com/hc/en-us/categories/115000259912-Elevate" class="blocks-item-link">
+            <img src="{{asset 'rocket.svg'}}" class="img-responsive"/>
+            <h3 class="blocks-item-title">Getting Started</h3>
+            <p class="blocks-item-description">First time users start here</p>
+          </a>
+        </div>
+      <div class="blocks-item">
+          <a href="https://elmstreettechnology.zendesk.com/hc/en-us/categories/360000252472-Elevate-Ignite" class="blocks-item-link">
+            <div>
+              <img src="{{asset 'crm.svg'}}" class="img-responsive"/>
+              <h3 class="blocks-item-title">Elevate CRM</h3>
+            	<p class="blocks-item-description">Tips &amp; tutorials</p>
+            </div>
+          </a>
+        </div>
+        <div class="blocks-item">
+          <a href="https://elmstreettechnology.zendesk.com/hc/en-us/categories/115000418252-MLS-Property-Finder" class="blocks-item-link">
+            <div>
+              <img src="{{asset 'gear.svg'}}" class="img-responsive"/>
+              <h3 class="blocks-item-title">Elevate Site Editor</h3>
+            	<p class="blocks-item-description">How to update your website</p>
+            </div>
+          </a>
+        </div>
+        <div class="blocks-item">
+          <a href="https://elmstreettechnology.zendesk.com/hc/en-us/categories/115000440652-Listingbook" class="blocks-item-link">
+            <div>
+              <img src="{{asset 'webinar.svg'}}" class="img-responsive"/>
+              <h3 class="blocks-item-title">Elevate Training</h3>
+            	<p class="blocks-item-description">Live and on-demand webinars</p>
+            </div>
+          </a>
+        </div>
+      <div class="blocks-item">
+          <a href="https://elmstreettechnology.zendesk.com/hc/en-us/categories/115000440652-Listingbook" class="blocks-item-link">
+            <div>
+              <img src="{{asset 'graduation-cap.svg'}}" class="img-responsive"/>
+              <h3 class="blocks-item-title">Elevate University</h3>
+            	<p class="blocks-item-description">Social media best practices</p>
+            </div>
+          </a>
+        </div>
+      {{#each categories}}
+        {{#is name 'Internal Knowledgebase'}}
+          <div class="blocks-item">
+            <a href="https://elmstreettechnology.zendesk.com/hc/en-us/categories/360000041772-Internal-Knowledgebase" class="blocks-item-link">
+              <div>
+                <img src="{{asset 'briefcase.svg'}}" class="img-responsive"/>
+                <h3 class="blocks-item-title">Internal Knowledge Base</h3>
+            	<p class="blocks-item-description">For EST employees only</p>
+              </div>
+            </a>
+          </div>
+        {{/is}}
+    {{/each}}
+    </section>
+  </section>
+</div>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="52px" height="50px" viewBox="0 0 52 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
+    <title>webinar</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Computer-Icon" fill-rule="nonzero">
+            <g id="webinar">
+                <rect id="computer-screen" stroke="#EF4F4A" stroke-width="2" x="1" y="1" width="50" height="40" rx="3"></rect>
+                <rect id="inner-screen" stroke="#EF4F4A" stroke-width="2" x="5" y="5" width="42" height="32" rx="0.5"></rect>
+                <rect id="base" stroke="#EF4F4A" stroke-width="2" x="19.5" y="41" width="13" height="8"></rect>
+                <path d="M15,49 L37,49" id="base-holder" stroke="#EF4F4A" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                <g id="play-btn-copy" transform="translate(15.000000, 10.000000)">
+                    <circle id="play-circle" stroke="#EF4F4A" stroke-width="2" cx="11" cy="11" r="11"></circle>
+                    <path d="M13.3742904,5.39013487 L18.9927997,15.5147722 C19.2607836,15.9976832 19.0865508,16.6064038 18.6036397,16.8743878 C18.4551832,16.9567714 18.2881953,17 18.1184119,17 L6.88139334,17 C6.32910859,17 5.88139334,16.5522847 5.88139334,16 C5.88139334,15.8302166 5.92462195,15.6632287 6.00700558,15.5147722 L11.6255149,5.39013487 C11.8934988,4.90722385 12.5022194,4.73299101 12.9851305,5.00097494 C13.1486958,5.09174296 13.2835224,5.22656956 13.3742904,5.39013487 Z" id="play-triangle" fill="#EF4F4A" transform="translate(12.500000, 11.000000) rotate(90.000000) translate(-12.500000, -11.000000) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

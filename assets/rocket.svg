@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="51px" viewBox="0 0 50 51" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
+    <title>rocket2</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="rocket2" fill-rule="nonzero" stroke="#EF4F4A" stroke-width="2">
+            <g transform="translate(1.000000, 0.000000)">
+                <path d="M28.3616596,8.97684463 L11.1591099,26.1793943 L23.2886431,38.3089276 L40.4911928,21.1063779 C45.6467369,15.9508338 48.1304893,9.7618303 47.9671093,2.4782507 C47.955115,1.94353437 47.5244989,1.51291929 46.9897803,1.50092796 C39.7062035,1.33754956 33.5172022,3.82130203 28.3616596,8.97684463 Z" id="rocketshape"></path>
+                <polygon id="left-wing-copy" stroke-linecap="round" stroke-linejoin="round" points="2.53553391 12.991378 23.7487373 12.991378 13.160367 23.5797483"></polygon>
+                <polygon id="right-wing" stroke-linecap="round" stroke-linejoin="round" points="36.4766594 46.9325035 25.8882891 36.3076704 36.4766594 25.7193001"></polygon>
+                <circle id="window" transform="translate(35.062446, 14.405592) rotate(45.000000) translate(-35.062446, -14.405592) " cx="35.0624458" cy="14.4055916" r="3"></circle>
+                <path d="M37.2444264,3.15254326 L46.0226009,11.9307179 L37.2444264,3.15254326 Z" id="Line" stroke-linecap="square"></path>
+                <path d="M11.3350555,32.1912956 L0.184473976,42.9576567" id="Line-2" stroke-linecap="round" stroke-linejoin="round" transform="translate(5.759765, 37.574476) rotate(-2.000000) translate(-5.759765, -37.574476) "></path>
+                <path d="M17.3350555,38.1912956 L6.18447398,48.9576567" id="Line-2-Copy" stroke-linecap="round" stroke-linejoin="round" transform="translate(11.759765, 43.574476) rotate(-2.000000) translate(-11.759765, -43.574476) "></path>
+            </g>
+        </g>
+    </g>
+</svg>
