@@ -1,12 +1,15 @@
-#How to run this project(MACos)
+# How to run this project(MACos)
 
-##Setting up local theme preview
-To set up local theme preview
+## Setting up local theme preview
+
+### To set up local theme preview
 
 1. If not already done, enable API access in your Zendesk Support account by going to Admin > Channels > API.
 2. Install the Zendesk apps tools (ZAT).
    See Installing and using the Zendesk apps tools in the Develop Help Center.
-   #Installing ZAT
+
+   ### Installing ZAT
+
    Note: If you're using macOS or Ubuntu and any of the following commands complains that you don't have write permissions for a directory, start the command with sudo to request admin privileges, then enter the password for your system when prompted. Example: $ sudo gem install rake.
 
 3. First, install rake, a build automation tool, with the following command in your command-line interface:
