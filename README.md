@@ -15,7 +15,8 @@
    $ gem update zendesk_apps_tools
    ```
 
-#Starting local theme preview
+# Starting local theme preview
+
 https://support.zendesk.com/hc/en-us/articles/115012793547-Previewing-theme-changes-locally-Guide-Professional-and-Enterprise-
 
 You should start local theme preview before you start working on theme files on your computer.
@@ -35,7 +36,7 @@ To back up one directory, use cd followed by a space and two periods. Example:
 cd ..
 ```
 
-Run the following command:
+2. Run the following command:
 
 ```
 $ zat theme preview
@@ -54,8 +55,8 @@ Enter your password: e8Pvy0pvGzE8meUQxWgjIYkjr
 
 After successfully signing in, preview mode starts and runs in the background:
 
-Copy the "Ready" URL in the output and paste it in a browser.
-In the example, the URL is https://nadosolutions.zendesk.com/hc/admin/local_preview/start.
+3. Copy the "Ready" URL in the output and paste it in a browser.
+   In the example, the URL is https://nadosolutions.zendesk.com/hc/admin/local_preview/start.
 
 An unformatted page loads after you sign in. Modern browsers have a security feature that blocks certain local files (known as mixed content) from loading in a page. You can disable the feature in Chrome and Firefox as described in the following step.
 
