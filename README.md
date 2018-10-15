@@ -15,7 +15,7 @@
    $ gem update zendesk_apps_tools
    ```
 
-# Starting local theme preview
+## Starting local theme preview
 
 https://support.zendesk.com/hc/en-us/articles/115012793547-Previewing-theme-changes-locally-Guide-Professional-and-Enterprise-
 
